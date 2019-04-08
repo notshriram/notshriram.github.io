@@ -2,7 +2,7 @@
 layout: post
 title:  "Initial Post"
 date:   2019-04-08 19:46:10 +0530
-categories: jekyll update
+categories: Blog
 ---
 This is the page holding my portfolio, dev logs et al.So yeah, Future projects' documentation will be found over
 here
