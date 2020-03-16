@@ -12,7 +12,7 @@ Multimeter               - 1 Nos.
 
 ## Observations
 The maximum range of the multimeter's ohmmeter (2 MegaOhms) was exceeded.
-<img src="https://github.com/notshriram/github_io_data/snibby.jpg" width="200"/>
+<img src="https://github.com/notshriram/github_io_data/blob/master/snibby.jpg" width="200"/>
 
 ## Conclusion
 The lower bound of the electrical resistance of Snibby was obtained to be 2 MegaOhms.
