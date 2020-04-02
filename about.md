@@ -9,8 +9,10 @@ Hi, I'm Shriram.
 Education
 ---------
 
-2007-2010
-:   **BTech, Electronics and Communication Engineering**; B.V.Raju Institue of Technology (Narsapur)
+2018-2022
+:   **BTech, Electronics and Communication Engineering**;
+
+B.V.Raju Institue of Technology (Narsapur)
 
 Experience
 ----------
