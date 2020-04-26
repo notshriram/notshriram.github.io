@@ -17,8 +17,9 @@ Experience
  
 Technical Experience
 --------------------
-
-My Cool Side Projects
+* Coursera Certificates
+  * [Wireless Communications for Everybody](https://www.coursera.org/account/accomplishments/certificate/VU52PGDDC9K9)
+  * [Embedded Software and Hardware Architecture](https://www.coursera.org/account/accomplishments/certificate/MWXEU4C6AALP)
 
 Programming Languages
 ----------------------
