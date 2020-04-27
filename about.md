@@ -18,8 +18,10 @@ Experience
 Technical Experience
 --------------------
 * Coursera Certificates
-  * [Wireless Communications for Everybody](https://www.coursera.org/account/accomplishments/certificate/VU52PGDDC9K9)
+  * [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/account/accomplishments/certificate/Z4S6HNGEXVZA)
   * [Embedded Software and Hardware Architecture](https://www.coursera.org/account/accomplishments/certificate/MWXEU4C6AALP)
+  * [Wireless Communications for Everybody](https://www.coursera.org/account/accomplishments/certificate/VU52PGDDC9K9)
+  
 
 Programming Languages
 ----------------------
