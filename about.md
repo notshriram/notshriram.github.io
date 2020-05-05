@@ -3,7 +3,8 @@ layout: post
 title: About
 permalink: /about/
 ---
-Hi, I'm Shriram. I love coding.
+Hi, I'm Shriram. I'm really passionate about Programming, Game Design, Embedded Hardware and staying curious in general.
+I strive to be versatile in the things that I do. I love to keep learning, there's a certain thrill in it for me, might I say. I have always been fascinated by the world of radio comms. and I aim to one day work in that field. Besides all that, most importantly ,the thing I love doing the most is creating new stuff! be it tinkering with electronics or doing something like making a game or making music, I'd even go so far as to say that it makes me who I am. 
 
 Education
 ---------
@@ -43,11 +44,10 @@ Extra
 ----------------------------------------
 
 * Human Languages:
-
      * English 
      * Malayalam (native speaker)
      * Hindi
 
-* I also play the electric guitar. Rock n roll! :metal:
+* I also play the electric guitar. Rock n roll! 🤘
 
 * To be contd.
